@@ -8,13 +8,14 @@
 - Clickjacking
 - HTTP Cleartext Transmission
 ------------------------------------------------------------------------
+- Secret Leak In Source Code
+- Unrestricted GMAP API Key | Search --> maps.googleapis.com
+------------------------------------------------------------------------
+- Verbose Error Message | /?f=\[ /anytext1
+------------------------------------------------------------------------
 - Dangling DNS Records
 ------------------------------------------------------------------------
 - SSL Certificate Cannot Be Trusted
 - SSL Certificate Expired
 - SSL Certificate Expiring Soon
-------------------------------------------------------------------------
-- Secret Leak In Source Code
-- Unrestricted GMAP API Key | Search --> maps.googleapis.com
-------------------------------------------------------------------------
-- Verbose Error Message | /?f=\[ /anytext1
+
