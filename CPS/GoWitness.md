@@ -11,7 +11,7 @@
 - Secret Leak In Source Code
 - Unrestricted GMAP API Key | Search --> maps.googleapis.com
 ------------------------------------------------------------------------
-- Verbose Error Message | /?f=\[ /anytext1
+- Verbose Error Message | /:anytext, /anytext1
 ------------------------------------------------------------------------
 - Dangling DNS Records
 ------------------------------------------------------------------------
